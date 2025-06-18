@@ -1,0 +1,40 @@
+/* index.html */
+body {
+    background-color: #8a8988;
+}
+
+ul {
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+li {
+    list-style: circle;
+    box-sizing: border-box;
+    border: 4px solid;
+    display: inline-block;
+    padding: 20px;
+}
+
+.title {
+    color: white;
+    text-align: center;
+}
+
+.ramen-link {
+    border-color: #639196;
+    background-color: #9dc0c4;
+}
+
+.peanut-noodles-link {
+    border-color: #3565cc;
+    background-color: #6a8fde;
+}
+
+.dumplings-link {
+    border-color: #216bb5;
+    background-color: #549be3;
+}
