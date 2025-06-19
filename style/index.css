@@ -1,14 +1,20 @@
-/* index.html */
 body {
     background-color: #8a8988;
 }
 
-ul {
+ul,
+.title {
     text-align: center;
 }
 
-a {
+a,
+.title {
     color: white;
+    text-decoration: none;
+}
+
+a {
+    font-family: 'Trebuchet MS', Arial, sans-serif;
 }
 
 li {
@@ -20,8 +26,7 @@ li {
 }
 
 .title {
-    color: white;
-    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .ramen-link {
